@@ -1,3 +1,3 @@
 # resume-project
  
-Link to Portfolio:
+Link to Portfolio: https://vasukashiv.github.io/resume-project/
